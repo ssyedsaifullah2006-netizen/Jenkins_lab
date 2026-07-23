@@ -1,4 +1,4 @@
-a = int(input("Enter a number to check odd or even"))
+a = 10
 
 if(a%2==0):
   print("Even number")
